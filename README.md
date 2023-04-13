@@ -22,7 +22,7 @@ https://user-images.githubusercontent.com/127339561/231482215-5279f19c-33e4-42e2
 ## BusPassenger Booking Application Seats Selected Screen 
 https://user-images.githubusercontent.com/127339561/231482494-35f3e454-46cd-4a4c-b12d-18db714b90a5.mp4
 
-## BusPassenger Booking Application Seats Selected Screen
+## BusPassenger Booking Application Payment and Ticket Screen
 
 https://user-images.githubusercontent.com/127339561/231483724-94ac1ce0-ce4c-4ed9-a822-cf060cfcd058.mp4
 
